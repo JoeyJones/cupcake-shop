@@ -1,0 +1,134 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Arial, "Helvetica", sans-serif;
+  margin: 0;
+  font-size: 17px;
+}
+#show-img h1{
+  color: rgb(255, 0, 200);
+  font-display: bold;
+  line-height:2.2;
+  background-color: #ffffff;
+  margin: 20px;
+  opacity: 0.8;
+}
+#show-img p {
+  background-size: 5% ;
+  background-color: #ffffff;
+  opacity: 0.8;
+  line-height:2.2;
+  font-style: italic;
+  color: rgb(255, 0, 200);
+}
+ul {
+  font-family: sans-serif;
+  text-align: center;
+  list-style-type: none;
+}
+ul li {
+  margin: 5px;
+  padding: 2px;
+  font-style: italic;
+  color: rgb(113, 155, 122);
+  font-weight: bold;
+}
+#show-img {
+  font-size: 20px;
+  background-size: cover;
+  background-image: url("../img/cupcakes.jpg");
+  height:100vh;
+  background-position: center;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px;
+  text-align: center;
+}
+#show-img #button {
+   font-size:18px;
+   text-decoration: none;
+   color: rgb(0, 0, 0);
+   border: rgb(0, 0, 0) 1px solid;
+   padding: 10px 20px;
+   border-radius: 10px;
+   margin-top: 20px;
+   background-color: #ffffff;
+   opacity: 0.8;
+   font-weight: bold;
+}
+#show-img #button:hover {
+background: rgb(218, 52, 80);
+color: white;
+}
+  
+/* second page background and style */
+html{
+  background-size: cover;
+  background-color: rgba(197, 17, 188, 0.322);
+}
+  
+.flashy-a {
+  font-size-adjust: 0.58;
+  text-align: center;
+  padding: 5px 20px;
+}
+  
+.flashy-b {
+  padding: -5px 20px;
+  text-align: center;
+  vertical-align: text-bottom;
+}
+.flashy-c {
+  text-align: center;
+  padding: -5px 5px;
+  bottom: 20px;
+  position: absolute;
+  width: 100%;
+}
+  .flashy-a h3  {
+  text-align: center;
+  padding: 5px 5px;
+
+}
+
+
+
+
+    
+
+
+
+  
+    
+    
+
+  
+ 
+  
+  
+
+  
+  
+
+
+
+  
+  
+
+
+
+
+  
+
+ 
+
+
+
+
+
+
+
